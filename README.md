@@ -56,8 +56,6 @@ This guide provides step-by-step instructions to set up the project environment 
 
 - Setting Up a Python Virtual Environment
   - Using Pipenv
-  - Using pip and venv
-  - Using Conda
 - Running the Application
 - Important Notes
 
