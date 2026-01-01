@@ -82,8 +82,10 @@ The project is divided into three phases.
 
 🧠 Phase 1: Create AI Agent
 python ai_agent.py
+
 ⚙️ Phase 2: Setup Backend with FastAPI
 python backend.py
+
 🎨 Phase 3: Setup Frontend with Streamlit
 python frontend.py
 
